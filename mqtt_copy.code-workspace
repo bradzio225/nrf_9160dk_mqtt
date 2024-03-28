@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "mqtt_copy",
+			"path": "mqtt_copy"
+		}
+	],
+	"settings": {
+		"nrf-connect.applications": [
+			"c:\\Users\\dawid\\Desktop\\mqtt_copy"
+		]
+	}
+}
